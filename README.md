@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banners/banner-raiz.svg" alt="TP3 — Design de Interface" width="100%">
-</p>
+logo refeita oficial ultra hiper blaster wow
 
 <h1 align="center">Design de Interface — TP3</h1>
 
