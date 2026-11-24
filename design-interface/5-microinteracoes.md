@@ -4,6 +4,4 @@
 
 ## Microinterações
 
-> **Guia:** vídeos ou GIFs de microanimações do protótipo.
-
-**[PREENCHER]**
+> 
