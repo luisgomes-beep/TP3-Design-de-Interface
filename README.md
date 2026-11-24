@@ -126,7 +126,7 @@ TP3-IHC/
 - O design final deve ser desenvolvido **obrigatoriamente no Figma Design**, com interações e transições configuradas (telas estáticas não bastam);
 - O protótipo deve ser coerente com os artefatos anteriores: HTAs, diagramas MoLIC e sketches.
 
-- Depois nós vê se apaga ou não isso
+ Depois nós vê se apaga ou não isso
 
 ---
 
