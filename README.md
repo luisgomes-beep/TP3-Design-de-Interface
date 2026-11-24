@@ -24,7 +24,7 @@
 
 Este repositório reúne o design completo da interface do **Camp Food**, apresentado por meio de um **protótipo interativo** com foco na qualidade de uso. O protótipo representa não apenas o aspecto visual da solução, mas também os principais fluxos de interação e as respostas do sistema, demonstrando como o usuário realiza as principais tarefas no aplicativo.
 
-O trabalho dá continuidade ao [repositório do TP2]([PREENCHER: link do repositório Design-IHC]) (imersão, ideação e sketches), mantendo coerência com as personas, os HTAs, os diagramas MoLIC e os sketches ali desenvolvidos.
+O trabalho dá continuidade ao [repositório do TP2](https://github.com/luisgomes-beep/Design-IHC) (imersão, ideação e sketches), mantendo coerência com as personas, os HTAs, os diagramas MoLIC e os sketches ali desenvolvidos.
 
 | | |
 |---|---|
@@ -32,9 +32,9 @@ O trabalho dá continuidade ao [repositório do TP2]([PREENCHER: link do reposit
 | **Disciplina** | Interação Humano-Computador (IHC) |
 | **Professor** | Dr. Andrey Rodrigues |
 | **Instituição** | Universidade Federal do Amazonas (UFAM) |
-| **Entrega** | **[PREENCHER: data e horário definidos no Classroom]** |
-| **Protótipo no Figma** | **[PREENCHER: link do protótipo]** |
-| **Apresentação (slides)** | **[PREENCHER: link ou arquivo dos slides]** |
+| **Entrega** | **01/12/2026** |
+| **Protótipo no Figma** | **link link link** |
+| **Apresentação (slides)** | **se não termianr antes não bota** |
 
 ---
 
@@ -51,17 +51,14 @@ O trabalho dá continuidade ao [repositório do TP2]([PREENCHER: link do reposit
 
 ## ● Navegação rápida
 
-| # | Arquivo | Conteúdo | Situação |
-|---|---|---|---|
-| 1 | [Mural de inspiração](design-interface/1-mural-de-inspiracao.md) | Imagens e fontes de referência | Pendente |
-| 2 | [Paleta e tipografia](design-interface/2-paleta-tipografia.md) | Cores, fontes, nome e logotipo, justificativas | Pendente |
-| 3 | [Ícones e ilustrações](design-interface/3-icones-ilustracoes.md) | Exemplos e explicações | Pendente |
-| 4 | [Design final](design-interface/4-design-final.md) | Telas exportadas, tutorial e link do protótipo | Pendente |
-| 5 | [Microinterações](design-interface/5-microinteracoes.md) | Vídeos ou GIFs de microanimações | Pendente |
-| 6 | [Heurísticas e UX](design-interface/6-heuristicas-ux.md) | Usabilidade, UX, comunicabilidade e acessibilidade | Pendente |
-
-> [!TIP]
-> Atualize a coluna **Situação** (*Pendente*, *Em andamento*, *Concluído*) conforme o grupo avançar.
+| # | Arquivo | Conteúdo | 
+|---|---|---|
+| 1 | [Mural de inspiração](design-interface/1-mural-de-inspiracao.md) | Imagens e fontes de referência | 
+| 2 | [Paleta e tipografia](design-interface/2-paleta-tipografia.md) | Cores, fontes, nome e logotipo, justificativas | 
+| 3 | [Ícones e ilustrações](design-interface/3-icones-ilustracoes.md) | Exemplos e explicações | 
+| 4 | [Design final](design-interface/4-design-final.md) | Telas exportadas, tutorial e link do protótipo | 
+| 5 | [Microinterações](design-interface/5-microinteracoes.md) | Vídeos ou GIFs de microanimações | 
+| 6 | [Heurísticas e UX](design-interface/6-heuristicas-ux.md) | Usabilidade, UX, comunicabilidade e acessibilidade | 
 
 ---
 
@@ -70,7 +67,7 @@ O trabalho dá continuidade ao [repositório do TP2]([PREENCHER: link do reposit
 - **GitHub** — organização e documentação do projeto;
 - **Markdown** — elaboração dos documentos;
 - **Figma Design** — design final e protótipo interativo (uso obrigatório);
-- **[PREENCHER]** — demais ferramentas utilizadas (ex.: Canva, Krita, Draw.io, Google Slides).
+- ** outras
 
 ---
 
@@ -93,13 +90,7 @@ O trabalho dá continuidade ao [repositório do TP2]([PREENCHER: link do reposit
 
 ## ● Declaração de uso de Inteligência Artificial
 
-**[REVISAR: ajustar ao uso real de IA neste trabalho antes da entrega.]**
-
-Declaramos que, durante o desenvolvimento deste trabalho, foram utilizadas ferramentas de Inteligência Artificial (IA) como recurso de apoio, com a finalidade de auxiliar na organização e no aprimoramento do conteúdo apresentado, principalmente em revisão ortográfica e gramatical e na organização de ideias.
-
-As ferramentas de IA não substituíram o processo de pesquisa, análise, discussão e tomada de decisões do grupo. Todo o conteúdo gerado ou sugerido foi avaliado, revisado e adaptado pelos integrantes, que permanecem responsáveis pela versão final do trabalho.
-
----
+IA? queh isso, num sei, que chique, coisa de playboy, tsk tsk, vish, sei não, nunca vi
 
 ## ● Organização do repositório
 
@@ -116,56 +107,6 @@ TP3-IHC/
     └── 6-heuristicas-ux.md          # telas e explicação dos critérios (usabilidade, UX, comunicabilidade e acessibilidade)
 ```
 
-Todas as imagens, GIFs, vídeos e telas do trabalho ficam na pasta `assets/` e são referenciados nos arquivos de `design-interface/`.
-
----
-
-## ● Regras de entrega
-
-<details>
-<summary><b>● Ver regras do enunciado</b></summary>
-
-<br>
-
-- O link do repositório deve ser enviado pelo **Google Classroom**, na aba correspondente, até a data estipulada no sistema;
-- **Atrasos:** −2 pontos;
-- **Apresentação:** ausência não justificada = −2 pontos;
-- **Não são permitidos commits** no repositório após a data de entrega;
-- É **obrigatório** preparar uma apresentação em slides;
-- O design final deve ser desenvolvido **obrigatoriamente no Figma Design**, com interações e transições configuradas (telas estáticas não bastam);
-- O protótipo deve ser coerente com os artefatos anteriores: HTAs, diagramas MoLIC e sketches.
-
-</details>
-
-## ● Checklist antes de enviar o link
-
-- [ ] Todos os `[PREENCHER]` e `[REVISAR]` foram resolvidos (veja o comando abaixo);
-- [ ] O link do protótipo no Figma abre **sem pedir login** (compartilhamento por link, modo *view*);
-- [ ] O tutorial (onboarding) está em um fluxo separado no Figma e linkado em `4-design-final`;
-- [ ] Imagens, GIFs e vídeos abrem corretamente no GitHub (caminhos relativos conferidos);
-- [ ] Tabela de **Navegação rápida** atualizada;
-- [ ] Slides da apresentação prontos e linkados;
-- [ ] Último commit feito **antes** do envio do link no Classroom.
-
-<details>
-<summary><b>● Como encontrar pendências no repositório</b></summary>
-
-<br>
-
-Na raiz do repositório, rode no terminal:
-
-```bash
-grep -rn "PREENCHER\|REVISAR" --include="*.md" .
-```
-
-Se não retornar nenhuma linha, não há campos pendentes.
-
-</details>
-
----
-
 <p align="center">
-  Este repositório é atualizado ao longo do desenvolvimento do trabalho, registrando as etapas,<br>
-  os resultados e as decisões de design tomadas pela equipe.<br><br>
   <sub>UFAM · 2026</sub>
 </p>
