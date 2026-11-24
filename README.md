@@ -38,9 +38,7 @@ O trabalho dá continuidade ao [repositório do TP2]([PREENCHER: link do reposit
 
 ## ● Etapas do trabalho
 
-<p align="center">
-  <img src="assets/diagramas/etapas-diagrama.svg" alt="Etapas: Identidade e Inspiração, Direção Visual, Prototipação Interativa, Apresentação e Discussão" width="100%">
-</p>
+fazer um gif 
 
 | Etapa | Foco |
 |---|---|
