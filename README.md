@@ -51,17 +51,14 @@ fazer um gif
 
 ## ● Navegação rápida
 
-| # | Pasta | Conteúdo | Situação |
-|---|---|---|---|
-| 1 | [Mural de inspiração](design-interface/1-mural-de-inspiracao/README.md) | Imagens e fontes de referência | Pendente |
-| 2 | [Paleta e tipografia](design-interface/2-paleta-tipografia/README.md) | Cores, fontes, nome e logotipo, justificativas | Pendente |
+| # | Pasta | Conteúdo | 
+|---|---|---|
+| 1 | [Mural de inspiração](design-interface/1-mural-de-inspiracao/README.md) | Imagens e fontes de referência | 
+| 2 | [Paleta e tipografia](design-interface/2-paleta-tipografia/README.md) | Cores, fontes, nome e logotipo, justificativas | 
 | 3 | [Ícones e ilustrações](design-interface/3-icones-ilustracoes/README.md) | Exemplos e explicações | Pendente |
-| 4 | [Design final](design-interface/4-design-final/README.md) | Telas exportadas, tutorial e link do protótipo | Pendente |
-| 5 | [Microinterações](design-interface/5-microinteracoes/README.md) | Vídeos ou GIFs de microanimações | Pendente |
-| 6 | [Heurísticas e UX](design-interface/6-heuristicas-ux/README.md) | Usabilidade, UX, comunicabilidade e acessibilidade | Pendente |
-
-> [!TIP]
-> Atualize a coluna **Situação** (*Pendente*, *Em andamento*, *Concluído*) conforme o grupo avançar.
+| 4 | [Design final](design-interface/4-design-final/README.md) | Telas exportadas, tutorial e link do protótipo | 
+| 5 | [Microinterações](design-interface/5-microinteracoes/README.md) | Vídeos ou GIFs de microanimações | 
+| 6 | [Heurísticas e UX](design-interface/6-heuristicas-ux/README.md) | Usabilidade, UX, comunicabilidade e acessibilidade | 
 
 ---
 
@@ -70,7 +67,7 @@ fazer um gif
 - **GitHub** — organização e documentação do projeto;
 - **Markdown** — elaboração dos documentos;
 - **Figma Design** — design final e protótipo interativo (uso obrigatório);
-- **[PREENCHER]** — demais ferramentas utilizadas (ex.: Canva, Krita, Draw.io, Google Slides).
+- outras
 
 ---
 
@@ -93,11 +90,7 @@ fazer um gif
 
 ## ● Declaração de uso de Inteligência Artificial
 
-**[REVISAR: ajustar ao uso real de IA neste trabalho antes da entrega.]**
-
-Declaramos que, durante o desenvolvimento deste trabalho, foram utilizadas ferramentas de Inteligência Artificial (IA) como recurso de apoio, com a finalidade de auxiliar na organização e no aprimoramento do conteúdo apresentado, principalmente em revisão ortográfica e gramatical e na organização de ideias.
-
-As ferramentas de IA não substituíram o processo de pesquisa, análise, discussão e tomada de decisões do grupo. Todo o conteúdo gerado ou sugerido foi avaliado, revisado e adaptado pelos integrantes, que permanecem responsáveis pela versão final do trabalho.
+IA? num sei que isso não, nunca vi, coisa chique, confio não, vish
 
 ---
 
@@ -116,8 +109,6 @@ TP3-IHC/
     └── 6-heuristicas-ux/            # usabilidade, UX, comunicabilidade e acessibilidade
 ```
 
-Cada pasta contém um `README.md` (a página da seção, já estruturada para preenchimento) e uma subpasta para os arquivos de mídia.
-
 ---
 
 ## ● Regras de entrega
@@ -135,37 +126,10 @@ Cada pasta contém um `README.md` (a página da seção, já estruturada para pr
 - O design final deve ser desenvolvido **obrigatoriamente no Figma Design**, com interações e transições configuradas (telas estáticas não bastam);
 - O protótipo deve ser coerente com os artefatos anteriores: HTAs, diagramas MoLIC e sketches.
 
-</details>
-
-## ● Checklist antes de enviar o link
-
-- [ ] Todos os `[PREENCHER]` e `[REVISAR]` foram resolvidos (veja o comando abaixo);
-- [ ] O link do protótipo no Figma abre **sem pedir login** (compartilhamento por link, modo *view*);
-- [ ] O tutorial (onboarding) está em um fluxo separado no Figma e linkado em `4-design-final`;
-- [ ] Imagens, GIFs e vídeos abrem corretamente no GitHub (caminhos relativos conferidos);
-- [ ] Tabela de **Navegação rápida** atualizada;
-- [ ] Slides da apresentação prontos e linkados;
-- [ ] Último commit feito **antes** do envio do link no Classroom.
-
-<details>
-<summary><b>● Como encontrar pendências no repositório</b></summary>
-
-<br>
-
-Na raiz do repositório, rode no terminal:
-
-```bash
-grep -rn "PREENCHER\|REVISAR" --include="*.md" .
-```
-
-Se não retornar nenhuma linha, não há campos pendentes.
-
-</details>
+- Depois nós vê se apaga ou não isso
 
 ---
 
 <p align="center">
-  Este repositório é atualizado ao longo do desenvolvimento do trabalho, registrando as etapas,<br>
-  os resultados e as decisões de design tomadas pela equipe.<br><br>
   <sub>UFAM · 2026</sub>
 </p>
