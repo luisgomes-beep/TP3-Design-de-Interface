@@ -135,13 +135,13 @@ Durante a organização do mural, foram priorizadas capturas de tela que apresen
 
 Foram considerados os seguintes critérios:
 
-- Relação entre a interface e os objetivos das personas;
-- Organização e hierarquia das informações;
-- Facilidade de localização e consulta de produtos;
-- Apresentação de estabelecimentos e seus respectivos itens;
-- Presença de recursos que possam contribuir para a acessibilidade;
-- Possibilidade de utilizar as referências como inspiração para as atividades previstas nas HTAs;
-- Contribuição dos elementos visuais para a identidade do Camp Food.
+ Relação entre a interface e os objetivos das personas;
+ Organização e hierarquia das informações;
+ Facilidade de localização e consulta de produtos;
+ Apresentação de estabelecimentos e seus respectivos itens;
+ Presença de recursos que possam contribuir para a acessibilidade;
+ Possibilidade de utilizar as referências como inspiração para as atividades  previstas nas HTAs;
+ Contribuição dos elementos visuais para a identidade do Camp Food.
 
 Também foram removidas capturas repetidas de busca e de detalhes de produtos, mantendo apenas imagens distintas e que acrescentassem informações relevantes à análise.
 
