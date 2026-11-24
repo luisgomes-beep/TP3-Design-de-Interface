@@ -155,4 +155,3 @@ Além dos aspectos funcionais, as referências visuais também auxiliaram na con
 
 Mais do que reproduzir interfaces existentes, o objetivo foi identificar elementos que pudessem servir de referência para o desenvolvimento do aplicativo, considerando as necessidades de Mariana, Gabriel e Camila e mantendo coerência com os objetivos e as tarefas definidos para o projeto.
 
-**Observação:** todas as imagens de aplicativos apresentadas no mural são referências externas utilizadas para análise e inspiração. Elas não representam telas já implementadas ou funcionalidades definitivamente estabelecidas para o Camp Food.
