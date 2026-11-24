@@ -1,22 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="280" viewBox="0 0 1600 280" role="img" aria-label="Banner — Paleta e Tipografia">
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7FAFF"/><stop offset="1" stop-color="#EAF3FF"/></linearGradient>
- <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173F78"/><stop offset="1" stop-color="#2D65A5"/></linearGradient>
- <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#173F78" flood-opacity=".12"/></filter>
-</defs>
-<rect width="1600" height="280" rx="28" fill="url(#bg)"/>
-<circle cx="1480" cy="20" r="205" fill="#D9E9FC" opacity=".72"/>
-<circle cx="1550" cy="285" r="180" fill="#C9DFF8" opacity=".55"/>
-<path d="M0 235 C180 170 240 330 420 255" fill="none" stroke="#9FC18F" stroke-width="7" opacity=".8"/>
-<path d="M0 0 H300 C250 90 140 90 0 150Z" fill="#D8E8FC" opacity=".72"/>
-<rect x="82" y="48" width="316" height="42" rx="21" fill="url(#blue)"/>
-<text x="240" y="76" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="middle">02 · DIREÇÃO VISUAL</text>
-<text x="82" y="160" font-family="Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2" fill="#173F78">Paleta e Tipografia</text>
-<rect x="82" y="188" width="5" height="64" rx="3" fill="#8CB6E8"/>
-<text x="106" y="213" font-family="Arial,sans-serif" font-size="25" fill="#244F83">Cores, fontes e a identidade</text>
-<text x="106" y="243" font-family="Arial,sans-serif" font-size="25" fill="#244F83">visual do Camp Food.</text>
-<g filter="url(#shadow)">
-<circle cx="1150" cy="110" r="34" fill="#173F78" stroke="#FFFFFF" stroke-width="5"/><circle cx="1226" cy="148" r="34" fill="#2D65A5" stroke="#FFFFFF" stroke-width="5"/><circle cx="1302" cy="110" r="34" fill="#8CB6E8" stroke="#FFFFFF" stroke-width="5"/><circle cx="1378" cy="148" r="34" fill="#9FC18F" stroke="#FFFFFF" stroke-width="5"/><circle cx="1454" cy="110" r="34" fill="#79A66A" stroke="#FFFFFF" stroke-width="5"/><text x="1150" y="226" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#173F78">Aa</text><text x="1235" y="226" font-family="Arial,sans-serif" font-size="30" fill="#4775A8">Aa</text>
-</g>
-<text x="1510" y="258" font-family="Arial,sans-serif" font-size="15" fill="#4775A8" text-anchor="end" letter-spacing="3">CAMP FOOD · IHC · TP3</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="240" viewBox="0 0 1600 240" role="img" aria-label="Banner — Paleta e Tipografia">
+<rect width="1600" height="240" rx="24" fill="#F7FAFF"/>
+<rect x="82" y="52" width="36" height="6" rx="3" fill="#9FC18F"/>
+<text x="132" y="62" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#2D65A5">ETAPA 2 · DIREÇÃO VISUAL</text>
+<text x="80" y="140" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#173F78">Paleta e Tipografia</text>
+<text x="82" y="190" font-family="Arial,sans-serif" font-size="24" fill="#4775A8">Cores, fontes, nome e logotipo</text>
+<circle cx="1400" cy="120" r="92" fill="#EAF3FF"/>
+<circle cx="1352" cy="120" r="24" fill="#173F78"/><circle cx="1400" cy="120" r="24" fill="#2D65A5"/><circle cx="1448" cy="120" r="24" fill="#9FC18F"/>
+<text x="1518" y="214" font-family="Arial,sans-serif" font-size="13" fill="#8CB6E8" text-anchor="end" letter-spacing="3">CAMP FOOD · IHC · TP3</text>
 </svg>
