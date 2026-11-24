@@ -5,5 +5,4 @@ Arquivos visuais **do próprio repositório** (banners e diagramas usados nos RE
 ```text
 assets/
 ├── banners/      # um banner por página
-└── diagramas/    # diagrama das etapas do trabalho
 ```
