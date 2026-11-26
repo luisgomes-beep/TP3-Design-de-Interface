@@ -32,7 +32,7 @@ O trabalho dá continuidade ao [repositório do TP2](https://github.com/luisgome
 | **Disciplina** | Interação Humano-Computador (IHC) |
 | **Professor** | Dr. Andrey Rodrigues |
 | **Instituição** | Universidade Federal do Amazonas (UFAM) |
-| **Entrega** | **01/12/2026** |
+| **Entrega** | **03/12/2026** |
 | **Protótipo no Figma** | **link link link** |
 | **Apresentação (slides)** | **se não termianr antes não bota** |
 
